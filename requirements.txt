@@ -1,0 +1,13 @@
+django
+djangorestframework
+requests
+mysqlclient
+numpy
+cython
+cmake
+pylibjpeg-libjpeg 
+Pillow
+dlib
+face_recognition
+imutils
+opencv-python
