@@ -1,0 +1,11 @@
+django
+djangorestframework
+requests
+numpy
+cython
+cmake
+Pillow
+dlib
+face_recognition
+imutils
+opencv-python
